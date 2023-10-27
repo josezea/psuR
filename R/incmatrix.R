@@ -2,7 +2,7 @@
 #' @import sf
 #' @export
 #' @title
-#' Function that build incidence matrix
+#' Function that build incidence matrix!
 #' @description
 #' The binary relation that represents the incidence matrix is 'Polygon A shares a border with Polygon B.
 #' It returns a matrix with 0 and 1 that specify if there is incidency between poligons
